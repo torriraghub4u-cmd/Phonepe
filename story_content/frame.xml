@@ -1599,17 +1599,17 @@
         <slidelink slideid="_player.5mIw1HZPPHd" displaytext="Simulation" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5mIw1HZPPHd.5jr5DQ0YFP5" displaytext="Story OverView" expand="false" type="slide" />
-            <slidelink slideid="_player.5mIw1HZPPHd.5q6LOmaVmBd" displaytext="open the app" expand="false" type="slide" />
+            <slidelink slideid="_player.5mIw1HZPPHd.5q6LOmaVmBd" displaytext="Open the app" expand="false" type="slide" />
             <slidelink slideid="_player.5mIw1HZPPHd.6UOasMNKpnk" displaytext="App launch" expand="false" type="slide" />
             <slidelink slideid="_player.5mIw1HZPPHd.6nee5rBDToj" displaytext="Enter Password" expand="false" type="slide" />
-            <slidelink slideid="_player.5mIw1HZPPHd.69K5HDzSLBo" displaytext="App HOme Screen" expand="false" type="slide" />
-            <slidelink slideid="_player.5mIw1HZPPHd.6LdNkBLD5Pm" displaytext="Initiate UPI transaction" expand="false" type="slide" />
-            <slidelink slideid="_player.5mIw1HZPPHd.5aYEccbKun3" displaytext="enter phone upi number" expand="false" type="slide" />
+            <slidelink slideid="_player.5mIw1HZPPHd.69K5HDzSLBo" displaytext="App Home Screen" expand="false" type="slide" />
+            <slidelink slideid="_player.5mIw1HZPPHd.6LdNkBLD5Pm" displaytext="Initiate UPI Ttransaction" expand="false" type="slide" />
+            <slidelink slideid="_player.5mIw1HZPPHd.5aYEccbKun3" displaytext="Enter Recipient&amp;apos;s Mobile Number" expand="false" type="slide" />
             <slidelink slideid="_player.5mIw1HZPPHd.5jWYk8rorp9" displaytext="Scane QR Code" expand="false" type="slide" />
             <slidelink slideid="_player.5mIw1HZPPHd.6khdAknHs5A" displaytext="Select Bank Account" expand="false" type="slide" />
-            <slidelink slideid="_player.5xaYPGznBr4.62jcXdeLirq" displaytext="Summary" expand="false" type="slide" />
+            <slidelink slideid="_player.5xaYPGznBr4.62jcXdeLirq" displaytext="Summary." expand="false" type="slide" />
             <slidelink slideid="_player.5mIw1HZPPHd.6aA0yG6EFC2" displaytext="Conform Password" expand="false" type="slide" />
-            <slidelink slideid="_player.5mIw1HZPPHd.5mpJFbVMBZ1" displaytext="Transaction sucessful" expand="false" type="slide" />
+            <slidelink slideid="_player.5mIw1HZPPHd.5mpJFbVMBZ1" displaytext="Transaction Sucessful" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="" emptySceneId="_player.5xaYPGznBr4" displaytext="Summary" expand="true" type="slide" />
